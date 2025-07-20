@@ -1,0 +1,13 @@
+The Bosium Strip Editor allows is currently postured to create coding files in C#, python, and general text extensions. The user can create new documents, open previous files, and retain files through both save and save as features. Within the edit dropdown, the find option is running, however current search efforts clear the main text box information. This would be altered in future revisions. Finally, a Help dropdown has been added which provides the user with both background information on the editor as well as a "less than helpful" help selection.
+
+Future advancements in design are categorized below:
+
+Autofill: The editor would display different options for choices based on 3 or more characters of an input. (IE: str would display stretch, string, stripdata, etc)
+
+Color Pattern: The editor would either have a dropdown or a side form which would allow the user to select pre-built color patterns for backgrounds, text color, font color IOT allow the user to customize their experience.
+
+Spell Checker: A spell check would be built to verify spelling of words throughout the editor.
+
+Line Numbers: The editor would have a side form that ran parallel with the main text editor that would display descending numbers showing which line of text code is on. This would be very similar to the C# visuals.
+
+Help feature: The help feature would actually be more helpful that it currently is. Potential for links to youtube videos or a dialog box that would search google, are both possibilities.
